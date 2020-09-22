@@ -1,10 +1,9 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+title: Sistemas - CoBach BC
+email: sistemas@cobachbc.edu.mx
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
-lang: en-US
+  Centro de ayuda para el uso de los sistemas desarrollados en el Colegio de Bachilleres del Estado de Baja California.
+lang: es-MX
 
 baseurl: "/centrodeayuda" # the subpath of your site, e.g. /blog/
 url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
@@ -13,7 +12,7 @@ git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
-bootwatch: paper # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
+bootwatch: flatly # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
 
 # Build settings
 markdown: kramdown
