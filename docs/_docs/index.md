@@ -1,6 +1,6 @@
 ---
 title: Bienvenido
-permalink: /docs/home/
+permalink: /docs/gettingstarted/home/
 redirect_from: /docs/index.html
 ---
 
