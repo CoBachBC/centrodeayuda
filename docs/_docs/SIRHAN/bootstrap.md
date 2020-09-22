@@ -1,6 +1,6 @@
 ---
-title: Bootstrap Features
-permalink: /docs/bootstrap/
+title: ¿Qué es SIRHAN?
+permalink: /docs/srihan/
 ---
 
 
