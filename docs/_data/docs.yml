@@ -4,16 +4,10 @@
   - themes
   - customization
 
-- title: Examples
-  docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
-
 - title: SAE
   docs:
   - inicio
 
-  - title: SIRHAN
+- title: SIRHAN
   docs:
   - inicio
