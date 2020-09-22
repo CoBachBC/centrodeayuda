@@ -1,6 +1,6 @@
 ---
 title: ¿Qué es SIRHAN?
-permalink: /docs/srihan/
+permalink: /docs/sirhan/
 ---
 
 
