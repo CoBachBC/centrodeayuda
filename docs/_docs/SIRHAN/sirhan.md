@@ -1,6 +1,7 @@
 ---
 title: ¿Qué es SIRHAN?
 permalink: /docs/sirhan/
+docu: sirhan
 ---
 
 
