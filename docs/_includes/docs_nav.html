@@ -1,12 +1,5 @@
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  {% case page.docu %}
-    {% when "sae" %}
-      {% for section in site.data.sae %}
-    {% when "sirhan" %}
-      {% for section in site.data.sirhan %}
-    {% else %}
-      {% for section in site.data.docs %}
-  {% endcase %}
+  {% for section in site.data.docs %}
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
