@@ -15,6 +15,14 @@
             <ul class="nav navbar-nav">
                 <li {% if page.sectionid=='docs' %} class="active" {% endif %}><a href="{{ "/docs/home/" | relative_url }}">Documentación</a></li>
                 <li {% if page.sectionid=='blog' %} class="active" {% endif %}><a href="{{ site.posts.first.url | relative_url }}">Blog</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Us <span class="caret"></span></a>
+                    <ul class="dropdown-menu" aria-labelledby="about-us">
+                        <li><a href="#">Our Story</a></li>
+                        <li><a href="#">Our Team</a></li>
+                        <li><a href="#">Contact Us</a></li>
+                    </ul>
+                </li>
             </ul>
             <div class="navbar-right">
                 <form class="navbar-form navbar-left">
