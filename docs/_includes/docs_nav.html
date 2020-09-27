@@ -2,7 +2,7 @@
   {% assign secc = page.docu %}
   {% if secc == "sae" %}
     {% for section in site.data.sae %}
-  {% elseif secc == "sirhan" %}
+  {% if secc == "sirhan" %}
     {% for section in site.data.sirhan %}
   {% else %}
     {% for section in site.data.docs %}
