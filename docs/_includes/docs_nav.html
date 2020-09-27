@@ -2,10 +2,9 @@
   {% assign secc = page.docu %}
   {% if secc == "sae" %}
     {% for section in site.data.sae %}
+    {% endif %}
   {% if secc == "sirhan" %}
     {% for section in site.data.sirhan %}
-  {% else %}
-    {% for section in site.data.docs %}
   {% endif %}
     <div class="panel panel-default">
       <div class="panel-heading">
