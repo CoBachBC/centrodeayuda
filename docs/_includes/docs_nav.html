@@ -1,20 +1,18 @@
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   {% assign secc = page.docu %}
   {% if secc == "sae" %}
-    Estás en SAE
+    {% for section in site.data.sae %}
   {% elseif secc == "sirhan" %}
-    Estás en SIRHAN
+    {% for section in site.data.sirhan %}
   {% else %}
-    Esto no deberías poder leerlo
+    {% for section in site.data.docs %}
   {% endif %}
-  {% for section in site.data.docs %}
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
           <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse-{{forloop.index}}" aria-expanded="false" aria-controls="collapse-{{forloop.index}}">
             {{ section.title }}
           </a>
-          <p>Esto es una prueba {{ secc }}</p>
         </h4>
       </div>
       {% assign collapsed = true %}
