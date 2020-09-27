@@ -38,23 +38,10 @@
       </div>
     {% endfor %}
 
-    <ul>
-      {% section == "sae" in site.data.docs %}
-      <li>{{ section.title }}
-        <ul>
-          {% for item in section.docs %}
-            {% assign item_url = item | prepend:"/docs/" | append:"/" %}
-            {% if item_url == page.url %}
-              {% assign collapsed = false %}
-            {% endif %}
-          {% endfor %}
-          {% for item in section.docs %}
-              {% assign item_url = item | prepend:"/docs/" | append:"/" %}
-              {% assign p = site.docs | where:"url", item_url | first %}
-              <li><a class="list-group-item {% if item_url == page.url %}active{% endif %}" href="{{ p.url  | relative_url }}">{{ p.title }}</a></li>
-            {% endfor %}
-        </ul>
-      </li>
-    </ul>
+    {% for section == "sae" in site.data.docs %}
+      <ul>
+        <li>{{ section.title }}</li>
+      </ul>
+    {% endfor %}
 
 </div>
