@@ -1,13 +1,6 @@
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   {% assign secc = page.docu %}
-    {% case secc %}
-    {% when "sae" %}
-      {% for section in site.data.docs %}
-    {% when "sirhan" %}
-      {% for section in site.data.docs %}
-    {% else %}
-       This is not a cake nor a cookie
-  {% endcase %}
+  {{ secc }}
   {% comment %}
   {% for section in site.data.docs %}
   {% endcomment %}
