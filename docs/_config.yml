@@ -1,8 +1,8 @@
 # Site settings
 title: Base de conocimiento
-email: sistemas@cobachbc.edu.mx
+email: kb@cobachbc.edu.mx
 description: >
-  Centro de ayuda para el uso de los sistemas desarrollados en el Colegio de Bachilleres del Estado de Baja California.
+  Base de conocimiento para el uso de sistemas desarrollados en el Colegio de Bachilleres del Estado de Baja California.
 lang: es-MX
 
 baseurl: "/centrodeayuda" # the subpath of your site, e.g. /blog/
