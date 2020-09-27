@@ -1,6 +1,5 @@
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   {% assign secc = page.docu %}
-  {{ secc }}
   {% comment %}
   {% for section in site.data.docs %}
   {% endcomment %}
@@ -10,6 +9,7 @@
           <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse-{{forloop.index}}" aria-expanded="false" aria-controls="collapse-{{forloop.index}}">
             {{ section.title }}
           </a>
+          <p>Esto es una prueba {{ secc }}</p>
         </h4>
       </div>
       {% assign collapsed = true %}
