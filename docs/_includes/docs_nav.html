@@ -29,5 +29,11 @@
 </div>
 
 <ul>
-  <li><a href="./">{{ page.docu | upcase}}</a></li>
+  <li><a href="./">{{ page.docu | upcase}}</a>
+    <ul>
+      {% for item in section.sae %}
+        <li>Hay algo</li>
+      {% endfor %}
+    </ul>
+  </li>
 </ul>
