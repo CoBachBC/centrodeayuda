@@ -2,6 +2,10 @@
   {% assign secc = page.docu %}
   {% if secc == "sae" %}
     Estás en SAE
+  {% elseif secc == "sirhan" %}
+    Estás en SIRHAN
+  {% else %}
+    Esto no deberías poder leerlo
   {% endif %}
   {% for section in site.data.docs %}
     <div class="panel panel-default">
