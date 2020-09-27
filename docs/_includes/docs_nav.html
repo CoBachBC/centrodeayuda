@@ -1,5 +1,16 @@
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  {% for section in site.data.{{page.docu}} %}
+  {% assign secc = page.docu %}
+    {% case secc %}
+    {% when "sae" %}
+      {% for section in site.data.docs %}
+    {% when "sirhan" %}
+      {% for section in site.data.docs %}
+    {% else %}
+       This is not a cake nor a cookie
+  {% endcase %}
+  {% comment %}
+  {% for section in site.data.docs %}
+  {% endcomment %}
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
