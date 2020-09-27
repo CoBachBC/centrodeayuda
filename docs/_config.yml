@@ -14,11 +14,9 @@ git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 # comment out this to use default Bootstrap
 bootwatch: paper # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
 
-# tema remoto para GitHub pages
-remote_theme: pmarsceill/just-the-docs
-
 # Build settings
 markdown: kramdown
+remote_theme: pmarsceill/just-the-docs
 highlighter: rouge
 # Plugins (previously gems:)
 plugins:
