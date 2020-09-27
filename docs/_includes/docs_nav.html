@@ -1,5 +1,6 @@
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   
+{% comment %}
   {% if page.docu == "sae" %}
     Estás en SAE
   {% else page.docu == "sirhan" %}
@@ -7,6 +8,7 @@
   {% else %}
     Esto no lo deberías de estar viendo...
   {% endif %}
+  {% endcomment %}
   
     {% for section in site.data.docs %}
       <div class="panel panel-default">
