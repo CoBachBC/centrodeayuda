@@ -28,8 +28,8 @@
         </div>
       </div>
     {% endfor %}
-  {% endif %}
-  {% if page.docu == "sirhan" %}
+  
+  {% else page.docu == "sirhan" %}
     {% for section in site.data.sirhan %}
       <div class="panel panel-default">
         <div class="panel-heading">
