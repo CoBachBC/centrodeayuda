@@ -39,6 +39,9 @@
     {% endfor %}
 
     {% for section in site.data.docs %}
+      {% if section.title == page.docu %}
+        {{ page.docu }}
+      {% endif %}
       <ul>
         <li>{{ section.title }}
           <ul>
