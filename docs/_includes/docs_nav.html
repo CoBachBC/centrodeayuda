@@ -1,5 +1,8 @@
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   {% assign secc = page.docu %}
+  {% if secc == "sae" %}
+    Estás en SAE
+  {% endif %}
   {% for section in site.data.docs %}
     <div class="panel panel-default">
       <div class="panel-heading">
