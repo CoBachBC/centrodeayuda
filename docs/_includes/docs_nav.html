@@ -2,8 +2,10 @@
   
   {% if page.docu == "sae" %}
     Estás en SAE
-  {% else page.docu == "sirhan" %}
+  {% elseif page.docu == "sirhan" %}
     Estás en SIRHAN
+  {% else %}
+    Esto no lo deberías de estar viendo...
   {% endif %}
   
     {% for section in site.data.sirhan %}
