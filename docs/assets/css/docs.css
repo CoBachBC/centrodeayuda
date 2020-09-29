@@ -8,8 +8,9 @@ border-bottom: solid 1px #555555;}
 tt-dataset.tt-dataset-pages a,tt-dataset.tt-dataset-pages a:link{cursor: pointer;
 background:#999999;}
 
-span.twitter-typeahead{width:100%;
+.jumbotron span.twitter-typeahead{width:100%;
 font-size:2rem;}
+.jumbotron input.tt-hint,.jumbotron input#search-box{width:100%;}
 
 #error404{text-align:center;}
 #error404 img{max-width:50%;}
