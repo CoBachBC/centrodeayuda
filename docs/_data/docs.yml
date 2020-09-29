@@ -1,6 +1,7 @@
-#- title: Inicio
-#  docs:
-#  - home
+- title: Docs
+  docs:
+  - sae
+  - sirhan
 
 - title: SAE
   docs:
