@@ -1,0 +1,20 @@
+tt-dataset.tt-dataset-pages{background: #ffffff;
+color: #040404;
+padding: 1.5rem;
+border-left: solid 1px #555555;
+border-right: solid 1px #555555;
+border-bottom: solid 1px #555555;}
+
+tt-dataset.tt-dataset-pages a,tt-dataset.tt-dataset-pages a:link{cursor: pointer;
+background:#999999;}
+
+#error404{text-align:center;}
+#error404 img{max-width:50%;}
+
+.btn-primary{background: #cacaca;
+border:solid 1px #757575;
+color:#414141;
+font-weight:bold;}
+
+.btn-primary:hover,.btn-primary:active:hover{background-color: #444444;
+color:#ffffff;}
