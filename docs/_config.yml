@@ -5,7 +5,7 @@ description: >
   Base de conocimiento para el uso de sistemas desarrollados en el Colegio de Bachilleres del Estado de Baja California.
 lang: es-MX
 
-baseurl: "/centrodeayuda" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: http://kb.cobachbc.edu.mx/ # the base hostname & protocol for your site
 git_address: https://github.com/cobachbc/centrodeayuda
 
