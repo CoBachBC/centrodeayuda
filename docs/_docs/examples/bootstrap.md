@@ -1,7 +1,6 @@
 ---
-title: ¿Qué es SAE?
-permalink: /docs/sae/
-docu: sae
+title: Bootstrap Features
+permalink: /docs/bootstrap/
 ---
 
 

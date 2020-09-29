@@ -1,12 +1,11 @@
-- title: Docs
+- title: Getting Started
   docs:
-  - sae
-  - sirhan
+  - home
+  - themes
+  - customization
 
-- title: SAE
+- title: Examples
   docs:
-  - sae
-
-- title: SIRHAN
-  docs:
-  - sirhan
+  - cheatsheet
+  - font-awesome
+  - bootstrap
