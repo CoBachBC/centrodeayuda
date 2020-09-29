@@ -1,5 +1,12 @@
 tt-dataset.tt-dataset-pages{background: #ffffff;
-padding:.5rem;}
+color: #040404;
+padding: 1.5rem;
+border-left: solid 1px #555555;
+border-right: solid 1px #555555;
+border-bottom: solid 1px #555555;}
+
+tt-dataset.tt-dataset-pages a,tt-dataset.tt-dataset-pages a:link{cursor: pointer;
+background:#999999;}
 
 #error404{text-align:center;}
 #error404 img{max-width:50%;}
