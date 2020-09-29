@@ -27,9 +27,7 @@
 
             </ul>
             <div class="navbar-right" id="search-container">
-                {% if page.url == "/" %}
-                    
-                {% else %}
+                {% unless page.url == "/" %}
                     <form class="navbar-form navbar-left">
                         <div class="form-group has-feedback">
                             <input type="text" id="search-box" placeholder="Buscar...">
@@ -37,7 +35,7 @@
                             <ul id="results-container"></ul>
                         </div>
                     </form>
-                {% endif %}
+                {% endunless %}
             </div>
         </div>
     </div>
