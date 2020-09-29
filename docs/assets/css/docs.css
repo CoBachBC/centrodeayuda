@@ -10,3 +10,7 @@ background:#999999;}
 
 #error404{text-align:center;}
 #error404 img{max-width:50%;}
+
+.btn-primary{background: #cacaca;
+border:solid 1px #757575;
+color:#414141;}
