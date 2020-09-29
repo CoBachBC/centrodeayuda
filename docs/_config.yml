@@ -15,7 +15,6 @@ bootwatch: paper # cerulean cosmo custom cyborg darkly flatly journal lumen read
 
 # Build settings
 markdown: kramdown
-remote_theme: pmarsceill/just-the-docs
 highlighter: rouge
 # Plugins (previously gems:)
 plugins:
