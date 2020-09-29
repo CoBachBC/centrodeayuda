@@ -6,7 +6,7 @@ $(function () {
       // datumTokenizer: Bloodhound.tokenizers.whitespace,
       queryTokenizer: Bloodhound.tokenizers.whitespace,
 
-      prefetch: baseurl + '/assets/js/search.json'
+      prefetch: baseurl + '/search.json'
     });
 
     $('#search-box').typeahead({
