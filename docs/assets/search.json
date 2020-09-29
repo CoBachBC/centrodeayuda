@@ -12,11 +12,4 @@ permalink: search.json
     },
   {% endfor %}
 {% endfor %}
-
-  {% for post in site.posts %}
-  {
-  "title": "{{ post.title | escape }}",
-  "url": "{{ post.url | relative_url }}"
-  }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
 ]
