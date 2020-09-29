@@ -27,7 +27,11 @@
 
             </ul>
             <div class="navbar-right" id="search-container">
-
+                {% if page.url == "/index.html" %}
+                    <small>Estás en el index</small>
+                {% else %}
+                    <small>No estás en el index</small>
+                {% endif %}
             </div>
         </div>
     </div>
