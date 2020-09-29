@@ -20,7 +20,11 @@
                         <li><a href="{{ "/docs/sirhan" | relative_url }}">SIRHAN</a></li>
                     </ul>
                 </li>
+
+                {% comment %}
                 <li {% if page.sectionid=='blog' %} class="active" {% endif %}><a href="{{ site.posts.first.url | relative_url }}">Blog</a></li>
+                {% endcomment %}
+
             </ul>
             <div class="navbar-right">
                 <form class="navbar-form navbar-left">
