@@ -13,6 +13,9 @@ font-size:2rem;}
 .jumbotron input.tt-hint,.jumbotron input#search-box{width:100%;
 padding: 1rem;
 font-size: 3rem;}
+.jumbotron i.fa.fa-search.form-control-feedback{font-size: 3rem;
+padding-top: 2rem;
+padding-right: 2rem;}
 
 #error404{text-align:center;}
 #error404 img{max-width:50%;}
