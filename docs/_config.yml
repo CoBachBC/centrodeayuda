@@ -6,7 +6,7 @@ description: >
 lang: es-MX
 
 baseurl: "/centrodeayuda" # the subpath of your site, e.g. /blog/
-url: https://cobachbc.github.io/centrodeayuda/ # the base hostname & protocol for your site
+url: http://kb.cobachbc.edu.mx/ # the base hostname & protocol for your site
 git_address: https://github.com/cobachbc/centrodeayuda
 
 # theme options from https://bootswatch.com/3/
