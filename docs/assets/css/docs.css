@@ -1,4 +1,5 @@
-.tt-highlight{background: #ffffff;}
+tt-dataset.tt-dataset-pages{background: #ffffff;
+padding:.5rem;}
 
 #error404{text-align:center;}
 #error404 img{max-width:50%;}
