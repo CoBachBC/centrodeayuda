@@ -13,4 +13,8 @@ background:#999999;}
 
 .btn-primary{background: #cacaca;
 border:solid 1px #757575;
-color:#414141;}
+color:#414141;
+font-weight:bold;}
+
+.btn-primary:hover,.btn-primary:active:hover{background-color: #444444;
+color:#ffffff;}
