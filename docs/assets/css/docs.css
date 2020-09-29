@@ -10,7 +10,9 @@ background:#999999;}
 
 .jumbotron span.twitter-typeahead{width:100%;
 font-size:2rem;}
-.jumbotron input.tt-hint,.jumbotron input#search-box{width:100%;}
+.jumbotron input.tt-hint,.jumbotron input#search-box{width:100%;
+padding: 1rem;
+font-size: 3rem;}
 
 #error404{text-align:center;}
 #error404 img{max-width:50%;}
