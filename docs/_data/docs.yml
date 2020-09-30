@@ -1,11 +1,11 @@
-#- title: Getting Started
-#  docs:
-#  - home
-
-- title: SAE
+- title: Getting Started
   docs:
-  - usuarioSae
+  - home
+  - themes
+  - customization
 
-- title: SIRHAN
+- title: Examples
   docs:
-  - usuarioSirhan
+  - cheatsheet
+  - font-awesome
+  - bootstrap
