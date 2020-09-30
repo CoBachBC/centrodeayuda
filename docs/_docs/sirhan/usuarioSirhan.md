@@ -1,6 +1,7 @@
 ---
 title: Usuario SIRHAN
 permalink: /docs/usuarioSirhan/
+doc: sirhan
 ---
 
 ## Creación de usuario SIRHAN
