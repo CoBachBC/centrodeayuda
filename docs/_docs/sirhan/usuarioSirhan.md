@@ -3,14 +3,15 @@ title: Usuario SIRHAN
 permalink: /docs/usuarioSirhan/
 ---
 
-# Encabezado 1
-## Encabezado 2
+## Creación de usuario SIRHAN
 
 Párrafo 
 
 - lista 1
 - lista 1
 - lista 1
+
+___
 
 1. ordenada
 1. ordenada
