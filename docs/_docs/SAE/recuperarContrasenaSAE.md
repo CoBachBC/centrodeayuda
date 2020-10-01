@@ -1,5 +1,5 @@
 ---
-title: Olvidé mi contraseña SAE
+title: Recuperar mi contraseña SAE
 permalink: /docs/olvideContrasenaSAE/
 ---
 
