@@ -1,6 +1,6 @@
 ---
 title: Transferir llamadas
-permalink: /docs/soporte/transferirLlamadas
+permalink: /docs/transferirLlamadas
 ---
 
-### Verifica el modelo de tu teléfono
+## Verifica el modelo de tu teléfono
