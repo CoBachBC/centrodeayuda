@@ -10,7 +10,7 @@
       </div>
       {% assign collapsed = true %}
       {% for item in section.docs %}
-        {% assign item_url = item | prepend:"/docs/" | append:"/" %}
+        {% assign item_url = item | prepend:"/docs/" | append:"/#" %}
         {% if item_url == page.url %}
           {% assign collapsed = false %}
         {% endif %}

@@ -11,9 +11,8 @@ next, lets build a link to it.
 {% endcomment %}
 
 {% for document in docs %}
-  {% assign document_url = document | prepend:"/docs/" | append:"/#" %}
+  {% assign document_url = document | prepend:"/docs/" | append:"/" %}
   {% if document_url == page.url %}
-    {{ page.permalink }}
     <ul class="pager">
       {% if forloop.first %}
         <li class="previous disabled">
