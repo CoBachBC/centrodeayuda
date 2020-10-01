@@ -45,6 +45,10 @@ line-height:2.75rem;}
 #docs-contenido .btn-primary{margin-top:8rem;
 display:none;}
 
+.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {background:#4f4f4f;
+border-color:#000000;
+font-weight:bold;}
+
 @media (max-width: 768px){
     #docs-contenido .btn-primary{display:block;}
 }
