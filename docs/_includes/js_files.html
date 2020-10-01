@@ -8,8 +8,6 @@
 <script>
   window.addEventListener('DOMContentLoaded', (event) => {
     $('#search-box').trigger('focus')
-    {% unless page.url == "/" %}
-      window.location.hash="{{ page.permalink | split: "/" | last }}"; 
-    {% endunless %}
+    window.location.hash="{{ page.permalink | split: "/" | last }}"; 
   });
 </script>
