@@ -4,11 +4,9 @@
   - themes
   - customization
 
-- title: Examples
+- title: Soporte
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - transferenciaLlamadas
     
 - title: SAE
   docs:
@@ -19,7 +17,9 @@
   docs:
   - usuarioSirhan
     
-- title: Soporte
+- title: Examples
   docs:
-  - transferenciaLlamadas
+  - cheatsheet
+  - font-awesome
+  - bootstrap
     
