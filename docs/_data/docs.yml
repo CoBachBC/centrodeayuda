@@ -1,4 +1,4 @@
-- title: Getting Started
+- title: Primeros pasos
   docs:
   - home
     
@@ -13,7 +13,6 @@
 
 - title: Soporte
   docs:
-  - home
   - themes
   - customization
     
