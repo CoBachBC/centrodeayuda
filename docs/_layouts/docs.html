@@ -9,6 +9,8 @@ layout: default
         </div>
 
         <div class="col-md-8" id="docs-contenido">
+            <a name="{{ page.title }}"></a>
+            <p>{{ page.title | split: "/" }}</p>
             <h1>{{ page.title }}</h1>
             <div id="markdown-content-container">{{ content }}</div>
             <hr>
