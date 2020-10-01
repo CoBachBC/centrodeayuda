@@ -42,6 +42,6 @@ line-height:2.75rem;}
 #docs-contenido .btn-primary{margin-top:8rem;
 display:none;}
 
-@media (max-width: 576px){
+@media (max-width: 768px){
     #docs-contenido .btn-primary{display:block;}
 }
