@@ -5,10 +5,11 @@
 - title: SAE
   docs:
   - usuarioSae
-  - olvideContrasenaSAE
+  - recuperarContrasenaSae
     
 - title: SIRHAN
   docs:
   - usuarioSirhan
+  - recuperarContrasenaSirhan
 
     
