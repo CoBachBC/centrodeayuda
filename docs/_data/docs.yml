@@ -4,9 +4,11 @@
   - themes
   - customization
 
-- title: Soporte
+- title: Getting Started
   docs:
-  - transferenciaLlamadas
+  - home
+  - themes
+  - customization
     
 - title: SAE
   docs:
