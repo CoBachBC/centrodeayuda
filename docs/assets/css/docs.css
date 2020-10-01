@@ -42,10 +42,6 @@ line-height:2.75rem;}
 #docs-contenido .btn-primary{margin-top:8rem;
 display:none;}
 
-@media (min-width: 576px){
-    #docs-contenido .btn-primary{display:block;}
-}
-
-@media (min-width: 768px){
+@media (max-width: 576px){
     #docs-contenido .btn-primary{display:block;}
 }
