@@ -52,3 +52,5 @@ font-weight:bold;}
 @media (max-width: 768px){
     #docs-contenido .btn-primary{display:block;}
 }
+
+a{color:#1100ff !important;}
