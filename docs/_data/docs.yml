@@ -1,14 +1,6 @@
 - title: Getting Started
   docs:
   - home
-  - themes
-  - customization
-
-- title: Soporte
-  docs:
-  - home
-  - themes
-  - customization
     
 - title: SAE
   docs:
@@ -18,4 +10,10 @@
 - title: SIRHAN
   docs:
   - usuarioSirhan
+
+- title: Soporte
+  docs:
+  - home
+  - themes
+  - customization
     
