@@ -28,10 +28,14 @@ font-weight:bold;}
 .btn-primary:hover,.btn-primary:active:hover{background-color: #444444;
 color:#ffffff;}
 
-#docs-contenido h1{font-size:1rem;}
-#docs-contenido h2{font-size:1rem;}
+#docs-contenido h1{font-size:3rem;
+font-weight:bold;}
+#docs-contenido h2{font-size:2rem;
+font-weight:bold;
+margin-bottom:2.75rem;}
 #docs-contenido h3{font-size:1rem;}
 #docs-contenido h4{font-size:1rem;}
 #docs-contenido h5{font-size:1rem;}
 #docs-contenido h6{font-size:1rem;}
-#docs-contenido p{font-size:1rem;}
+#docs-contenido p{font-size:1.5rem;
+line-height:2.75rem;}
