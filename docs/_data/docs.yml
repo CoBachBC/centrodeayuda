@@ -7,6 +7,7 @@
   - cambioContrasenaSAE
   - recuperarContrasenaSAE
   - alumnoAusenteCapturaParcialDocenteSAE
+  - corregirDatosAlumnoSAE
     
 - title: SIRHAN
   docs:
