@@ -21,4 +21,4 @@ autor: Rommel Ortiz González
     - La contraseña será de mínimo 8 dígitos, pudiendo ser la combinación de números y letras (minúsculas o mayúsculas)
     -Cambiar estatus a “Activo”
     - Si el usuario tendrá a su cargo algún programa o apoyo específico seleccionar lo necesario y dar en el botón de “Guardar”:
-    <img src="/assets/img/docs/sae/generarUsuarioPlantelSAE-02.jpg">
+    <img src="/assets/img/docs/sae/generarUsuarioPlantelSAE-02.png">
