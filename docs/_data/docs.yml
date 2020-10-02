@@ -8,6 +8,8 @@
   - recuperarContrasenaSAE
   - alumnoAusenteCapturaParcialDocenteSAE
   - corregirDatosAlumnoSAE
+  - activarFirmaElectronicaSAE
+  - validarCertificadoTerminacionSAE
     
 - title: SIRHAN
   docs:
