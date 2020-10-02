@@ -2,6 +2,7 @@
 title: Bienvenido
 permalink: /docs/home/
 redirect_from: /docs/index.html
+autor: Admin
 ---
 
 ## ¿Cómo usar la documentación?
