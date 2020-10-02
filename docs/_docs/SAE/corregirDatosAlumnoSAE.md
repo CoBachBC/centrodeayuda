@@ -1,5 +1,5 @@
 ---
-title:
+title: SAE ¿Dónde puedo corregir datos del alumno?
 permalink: /docs/corregirDatosAlumnoSAE/
 autor: Rommel Ortiz González
 ---
