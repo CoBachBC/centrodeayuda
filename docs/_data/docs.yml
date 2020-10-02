@@ -6,6 +6,7 @@
   docs:
   - cambioContrasenaSAE
   - recuperarContrasenaSAE
+  - alumnoAusenteCapturaParcialDocenteSAE
     
 - title: SIRHAN
   docs:
