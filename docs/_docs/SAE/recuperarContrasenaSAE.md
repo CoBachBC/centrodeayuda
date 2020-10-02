@@ -1,6 +1,6 @@
 ---
 title: SAE Si no recuerdo mi contraseña, ¿Cómo la recupero?
-permalink: /docs/recuperarContrasenaSae/
+permalink: /docs/recuperarContrasenaSAE/
 autor: Rommel Ortiz González
 ---
 
