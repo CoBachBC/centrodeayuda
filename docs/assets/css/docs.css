@@ -45,6 +45,7 @@ margin-bottom:2.75rem;}
 line-height:2.75rem;}
 #docs-contenido .btn-primary{margin-top:8rem;
 display:none;}
+#docs-contenido ol ol{list-style-type:upper-alpha;}
 
 .list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {background:#4f4f4f;
 border-color:#000000;
