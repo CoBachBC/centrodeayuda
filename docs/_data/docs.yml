@@ -10,6 +10,7 @@
   - corregirDatosAlumnoSAE
   - activarFirmaElectronicaSAE
   - validarCertificadoTerminacionSAE
+  - generarUsuarioPlantelSAE
     
 - title: SIRHAN
   docs:
