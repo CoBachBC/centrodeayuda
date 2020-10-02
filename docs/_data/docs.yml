@@ -4,8 +4,8 @@
     
 - title: SAE
   docs:
-  - usuarioSae
-  - recuperarContrasenaSae
+  - cambioContrasenaSAE
+  - recuperarContrasenaSAE
     
 - title: SIRHAN
   docs:
