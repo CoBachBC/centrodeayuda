@@ -8,6 +8,7 @@ autor: Rommel Ortiz González
     - Director
     - SubdirAdm
     - ApoyoAdm
+
 -Los tipo de usuario que puede generar el Plantel son:
     - Docente
     - Coordinador de tutorías
