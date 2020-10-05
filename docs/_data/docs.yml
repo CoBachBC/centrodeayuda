@@ -11,6 +11,7 @@
   - activarFirmaElectronicaSAE
   - validarCertificadoTerminacionSAE
   - generarUsuarioPlantelSAE
+  - procedimientosSAE
     
 - title: SIRHAN
   docs:
