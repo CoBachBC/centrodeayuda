@@ -1,8 +1,7 @@
 <script>
-    if(! localStorage.noFirstVisit){
+    if (!localStorage.getItem('viewed')){
         $('#primeraVisita').modal({
             keyboard:true;
         })
-        localStorage.noFirstVisit = "1";
-    }
+    };
 </script>
