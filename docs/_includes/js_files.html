@@ -10,4 +10,13 @@
     $('#search-box').trigger('focus')
     window.location.hash="{{ page.permalink | split: "/" | last }}"; 
   });
+
+  {% unless page.url == "/" %}
+    if(! localStorage.noFirstVisit){
+      $('#primeraVisita').modal({
+        keyboard:true;
+      })
+      localStorage.noFirstVisit = true;
+    }
+  {% endunless %}
 </script>
