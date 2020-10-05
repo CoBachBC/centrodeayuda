@@ -1,7 +1,10 @@
 <script>
     window.onload = function(){
-        $('#primeraVisita').modal({
-            keyboard:true
-        })
+        if (! localStorage.noFirstVisit) {
+            $('#primeraVisita').modal({
+                keyboard:true
+            })
+            local.localStorage.noFirstVisit = true;
+        }
     };
 </script>
