@@ -1,5 +1,5 @@
 ---
-title: SAE ¿Dónde veo los procedimientos de Registro y Control Escolar?
+title: SAE Ver los procedimientos de Registro y Control Escolar
 permalink: /docs/procedimientosSAE/
 autor: Rommel Ortiz González
 ---
