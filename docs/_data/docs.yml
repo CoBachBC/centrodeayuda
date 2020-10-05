@@ -12,12 +12,4 @@
   - validarCertificadoTerminacionSAE
   - generarUsuarioPlantelSAE
   - procedimientosSAE
-    
-- title: SIRHAN
-  docs:
-  - usuarioSirhan
-  - recuperarContrasenaSirhan
-
-- title: Soporte técnico
-  docs:
-  - transferenciaTel
+  
