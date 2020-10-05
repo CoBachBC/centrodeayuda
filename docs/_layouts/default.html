@@ -14,9 +14,9 @@
     </div>
     {% include footer.html %}
     {% include js_files.html %}
-    {% unless page.url == "/" %}
-        <p>hola index</p>
-    {% endunless %}
+    {% if page.url == "/" %}
+        {% include modalPrimeraVisita.html %}
+    {% endif %}
 </body>
 
 </html>
