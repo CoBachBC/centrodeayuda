@@ -37,10 +37,8 @@ font-weight:bold;}
 #docs-contenido h2{font-size:2rem;
 font-weight:bold;
 margin-bottom:2.75rem;}
-#docs-contenido h3{font-size:1rem;}
-#docs-contenido h4{font-size:1rem;}
-#docs-contenido h5{font-size:1rem;}
-#docs-contenido h6{font-size:1rem;}
+#docs-contenido h3{font-size:1.5rem;}
+#docs-contenido h4{font-size:1.125rem;}
 #docs-contenido p, #docs-contenido li{font-size:1.5rem;
 line-height:2.75rem;}
 #docs-contenido .btn-primary{margin-top:8rem;
@@ -49,6 +47,9 @@ display:none;}
 #docs-contenido img{display:block;
 box-shadow: 5px 5px 10px #777777;
 margin: 3rem auto;}
+
+.autor{font-weight:normal;
+font-size:1.5rem;}
 
 .list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {background:#4f4f4f;
 border-color:#000000;
