@@ -17,7 +17,8 @@ permalink: search.json
   {% for post in site.posts %}
   {
   "title": "{{ post.title | escape }}",
-  "url": "{{ post.url | relative_url }}"
+  "url": "{{ post.url | relative_url }}",
+  "tags": "{{ post.tags }}"
   }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
