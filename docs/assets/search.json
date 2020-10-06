@@ -8,7 +8,8 @@ permalink: search.json
     {% assign p = site.docs | where:"url", item_url | first %}
     {
       "title": "{{ p.title }}",
-      "url": "{{ p.url | relative_url }}"
+      "url": "{{ p.url | relative_url }}",
+      "tags": "{{ p.tags }}"
     },
   {% endfor %}
 {% endfor %}

@@ -2,6 +2,7 @@
 title: SAE ¿Cómo cambio mi contraseña?
 permalink: /docs/cambioContrasenaSAE/
 autor: Rommel Ortiz González
+tags: sae
 ---
 
 1. Ingresa a SAE con tu usuario y contraseña actual

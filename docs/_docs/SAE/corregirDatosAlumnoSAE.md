@@ -2,6 +2,7 @@
 title: SAE ¿Dónde puedo corregir datos del alumno?
 permalink: /docs/corregirDatosAlumnoSAE/
 autor: Rommel Ortiz González
+tags: sae
 ---
 
 - En el expediente del alumno, podrá ingresar en Alumnos/Consultar expediente

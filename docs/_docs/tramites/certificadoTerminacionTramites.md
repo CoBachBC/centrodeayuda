@@ -2,6 +2,7 @@
 title: Trámites Carta de validación de Certificado de Terminación
 permalink: /docs/certificadoTerminacionTramites/
 autor: Rommel Ortiz González
+tags: tramites
 ---
 
 - Ingresar a la página oficial de Colegio [http://www.cobachbc.edu.mx/](http://www.cobachbc.edu.mx/) 
