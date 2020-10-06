@@ -1,5 +1,5 @@
 ---
-title: TRÁMITES Carta de validación de Certificado de Terminación
+title: Trámites Carta de validación de Certificado de Terminación
 permalink: /docs/certificadoTerminacionTramites/
 autor: Rommel Ortiz González
 ---
