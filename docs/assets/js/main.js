@@ -14,7 +14,7 @@ $(function () {
       highlight: true
     }, {
         name: 'pages',
-        display: 'title' + ' PRUEBA',
+        display: 'title',
         source: pages
       });
 
