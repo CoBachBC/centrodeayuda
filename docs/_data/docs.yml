@@ -13,3 +13,6 @@
   - generarUsuarioPlantelSAE
   - procedimientosSAE
   
+- title: Trámites
+  docs:
+  - certificadoTerminacionTramites
