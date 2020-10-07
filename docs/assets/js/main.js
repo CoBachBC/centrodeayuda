@@ -15,10 +15,7 @@ $(function () {
     }, {
         name: 'pages',
         display: 'displayTitle',
-        source: pages,
-        templates: {
-          suggestion: Handlebars.compile('<strong>{{displayTitle}}</strong>')
-        }
+        source: pages
       });
 
     $('#search-box').bind('typeahead:select', function (ev, suggestion) {
