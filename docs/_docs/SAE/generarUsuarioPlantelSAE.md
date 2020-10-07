@@ -3,6 +3,7 @@ title: sae usuarios cómo como genero usuario plantel
 displayTitle: ¿Cómo genero un usuario de Plantel?
 permalink: /docs/generarUsuarioPlantelSAE/
 autor: Rommel Ortiz González
+categoria: SAE/Usuario
 ---
 
 - Los roles que tienen acceso a crear usuarios en los Planteles son:

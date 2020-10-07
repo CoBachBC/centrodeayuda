@@ -1,8 +1,9 @@
 ---
-title: SAE cómo como validar certificado terminación terminacion
+title: sae cómo como validar certificado terminación terminacion
 displayTitle: ¿Cómo puedo validar mi Certificado de Terminación?
 permalink: /docs/validarCertificadoTerminacionSAE/
 autor: Rommel Ortiz González
+categoria: SAE/Trámites
 ---
 
 - Ingresar a la página oficial de Colegio de Bachilleres del Estado de Baja California en [http://www.cobachbc.edu.mx/](http://www.cobachbc.edu.mx/)
