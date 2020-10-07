@@ -1,5 +1,5 @@
 ---
-title: Trámites como obtengo carta validacion validación certificado terminación terminacion
+title: Trámites tramites como obtengo carta validacion validación certificado terminación terminacion
 displayTitle: ¿Cómo obtengo una carta de validación de Certificado de Terminación?
 permalink: /docs/certificadoTerminacionTramites/
 autor: Rommel Ortiz González
