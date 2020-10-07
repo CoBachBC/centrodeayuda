@@ -9,7 +9,7 @@ $(function () {
       prefetch: baseurl + '/search.json'
     });
 
-    $('#search-box').typeahead(null,{
+    $('#search-box').typeahead({
       minLength: 0,
       highlight: true
     }, {
