@@ -1,8 +1,8 @@
 ---
-title: Trámites Carta de validación de Certificado de Terminación
+title: Trámites como obtengo carta validacion validación certificado terminación terminacion
+displayTitle: ¿Cómo obtengo una carta de validación de Certificado de Terminación?
 permalink: /docs/certificadoTerminacionTramites/
 autor: Rommel Ortiz González
-tags: tramites
 ---
 
 - Ingresar a la página oficial de Colegio [http://www.cobachbc.edu.mx/](http://www.cobachbc.edu.mx/) 

@@ -1,5 +1,6 @@
 ---
 title: Bienvenido
+displayTitle: 
 permalink: /docs/home/
 redirect_from: /docs/index.html
 autor: Admin

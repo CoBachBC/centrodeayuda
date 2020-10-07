@@ -1,8 +1,8 @@
 ---
-title: SAE Ver los procedimientos de Registro y Control Escolar
+title: sae donde dónde encuentro procedimientos departamento registro control escolar
+displayTitle: ¿Dónde encuentro los procedimientos del Departamento de Registro y Control Escolar?
 permalink: /docs/procedimientosSAE/
 autor: Rommel Ortiz González
-tags: sae
 ---
 
 - Los procedimientos los podrás encontrar en la página oficial del Colegio de Bachilleres del Estado de Baja California en la sección Servicios Educativos:

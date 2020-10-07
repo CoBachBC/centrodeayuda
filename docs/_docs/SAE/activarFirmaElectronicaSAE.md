@@ -1,8 +1,8 @@
 ---
-title: SAE Soy director de plantel ¿Cómo activo firma electrónica?
+title: sae certificación certificacion director plantel cómo como activo activar firma electrónica electronica documento documentos digital digitales
+displayTitle: Soy Director de Plantel ¿Cómo activo mi firma electrónica para documentos digitales?
 permalink: /docs/activarFirmaElectronicaSAE/
 autor: Rommel Ortiz González
-tags: sae
 ---
 
 1. Ubicar el el archivo en el USB donde Gobierno del Estado le dió su certificado de firma electrónica, el icono del archivo es el siguiente: 
