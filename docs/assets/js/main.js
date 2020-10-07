@@ -15,7 +15,15 @@ $(function () {
     }, {
         name: 'pages',
         display: 'displayTitle',
-        source: pages
+        source: pages,
+        templates: {
+          empty: [
+            '<div class="empty-message">',
+              'No hay resultados disponibles',
+            '</div>'
+          ].join('\n'),
+          suggestion: Handlebars.compile('<div><strong>{{dislayTitle}}</strong> – {{title}}</div>')
+        }
       });
 
     $('#search-box').bind('typeahead:select', function (ev, suggestion) {
