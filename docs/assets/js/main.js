@@ -10,14 +10,14 @@ $(function () {
     });
 
     $('#search-box').typeahead({
-      minLength: 1,
+      minLength: 0,
       highlight: true
     }, {
         name: 'pages',
         display: 'displayTitle',
         source: pages,
         templates: {
-          empty: ['No hay resultados disponibles'].join('\n')
+          suggestion: Handlebars.compile('<strong>{{displayTitle}}</strong>')
         }
       });
 
