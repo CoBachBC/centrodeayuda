@@ -17,8 +17,7 @@ $(function () {
         display: 'displayTitle',
         source: pages,
         templates: {
-          empty: [''].join('\n'),
-          suggestion: Handlebars.compile('<div><strong>{{display}}</strong> – {{title}}</div>')
+          empty: ['No hay resultados disponibles'].join('\n')
         }
       });
 
