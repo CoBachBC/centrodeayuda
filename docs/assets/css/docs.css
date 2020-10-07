@@ -5,7 +5,7 @@ border-left: solid 1px #555555;
 border-right: solid 1px #555555;
 border-bottom: solid 1px #555555;}
 
-.tt-suggestion.tt-selectable a:hover{cursor:pointer;
+.tt-suggestion.tt-selectable a:hover{cursor:pointer !important;
 background:#999999;}
 
 .jumbotron span.twitter-typeahead{width:100%;
