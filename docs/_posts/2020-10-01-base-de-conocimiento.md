@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Base de conocimiento CoBach BC"
+displayTitle: "Base de conocimiento CoBach BC"
 author: admin
-tags: bienvenida
 ---
 ### Gracias por utilizar la **Base de conocimiento** de CoBach BC. 
 
