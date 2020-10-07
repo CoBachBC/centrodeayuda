@@ -17,7 +17,7 @@ $(function () {
         display: 'displayTitle',
         source: pages,
         templates: {
-          suggestion: Handlebars.compile('<div>{{displayTitle}}</div>')
+          
         }
       });
 
