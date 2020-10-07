@@ -10,7 +10,7 @@ $(function () {
     });
 
     $('#search-box').typeahead({
-      minLength: 0,
+      minLength: 1,
       highlight: true
     }, {
         name: 'pages',
