@@ -9,7 +9,7 @@ $(function () {
       prefetch: baseurl + '/search.json'
     });
 
-    $('#search-box').typeahead({
+    $('#search-box').typeahead(null,{
       minLength: 0,
       highlight: true
     }, {
@@ -17,7 +17,7 @@ $(function () {
         display: 'displayTitle',
         source: pages,
         templates: {
-          
+          suggestion: Handlebars.compile('<div>{{displayTitle}} - <span class="listaCat">{{categoria}}</span></div>')
         }
       });
 
