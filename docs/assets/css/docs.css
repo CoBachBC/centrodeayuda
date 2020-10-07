@@ -7,6 +7,7 @@ border-bottom: solid 1px #555555;}
 
 .tt-suggestion.tt-selectable a{background:#999999;}
 .tt-suggestion:hover, .tt-selectable:hover, .tt-suggestion a:hover, .tt-selectable a:hover{cursor:pointer !important;}
+.empty-message{background:#ffffff;}
 
 .jumbotron span.twitter-typeahead{width:100%;
 font-size:2rem;}
