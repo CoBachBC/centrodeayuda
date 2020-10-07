@@ -15,7 +15,10 @@ $(function () {
     }, {
         name: 'pages',
         display: 'displayTitle',
-        source: pages
+        source: pages,
+        templates: {
+          
+        }
       });
 
     $('#search-box').bind('typeahead:select', function (ev, suggestion) {
