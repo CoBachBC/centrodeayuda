@@ -14,7 +14,7 @@ $(function () {
       highlight: true
     }, {
         name: 'pages',
-        display: 'tags',
+        display: 'title',
         source: pages
       });
 
