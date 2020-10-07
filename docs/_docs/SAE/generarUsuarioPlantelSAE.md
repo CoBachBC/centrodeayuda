@@ -1,5 +1,5 @@
 ---
-title: sae usuari cómo como genero usuario plantel
+title: sae usuarios cómo como genero usuario plantel
 displayTitle: ¿Cómo genero un usuario de Plantel?
 permalink: /docs/generarUsuarioPlantelSAE/
 autor: Rommel Ortiz González
