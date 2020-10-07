@@ -10,4 +10,8 @@
     $('#search-box').trigger('focus')
     window.location.hash="{{ page.permalink | split: "/" | last }}"; 
   });
+
+  $('#primeraVisita').on('hidden.bs.modal', function (e) {
+    $('#search-box').trigger('focus')
+  })
 </script>
