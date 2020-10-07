@@ -17,7 +17,7 @@ $(function () {
         display: 'displayTitle',
         source: pages,
         templates: {
-          suggestion: Handlebars.compile('<div class="typeSuggest">{{displayTitle}} - <span></span></div>')
+          suggestion: Handlebars.compile('<div class="typeSuggest">{{displayTitle}} - <span>{{categoria}}</span></div>')
         }
       });
 
