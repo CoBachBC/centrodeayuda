@@ -9,7 +9,8 @@ permalink: search.json
     {
       "title": "{{ p.title }}",
       "url": "{{ p.url | relative_url }}",
-      "displayTitle": "{{ p.categoria }} {{ p.displayTitle }}"
+      "displayTitle": "{{ p.displayTitle }}",
+      "categoria": "{{ p.categoria }}"
     },
   {% endfor %}
 {% endfor %}
@@ -18,7 +19,8 @@ permalink: search.json
   {
   "title": "{{ post.title | escape }}",
   "url": "{{ post.url | relative_url }}",
-  "displayTitle": "{{ post.categoria }} {{ post.displayTitle }}"
+  "displayTitle": "{{ post.displayTitle }}",
+  "categoria": "{{ post.categoria }}"
   }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
