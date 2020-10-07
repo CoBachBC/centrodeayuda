@@ -9,7 +9,7 @@ permalink: search.json
     {
       "title": "{{ p.title }}",
       "url": "{{ p.url | relative_url }}",
-      "displayTitle": "{{ p.categoria }} {{ p.displayTitle }}"
+      "displayTitle": "<em>{{ p.categoria }}</em> {{ p.displayTitle }}"
     },
   {% endfor %}
 {% endfor %}
