@@ -1,6 +1,6 @@
 ---
 title: sae expediente dónde donde puedo corregir datos alumno alumna alumnos alumnas
-displayTitle: ¿Dónde puedo corregir datos del alumno?
+displayTitle: ¿Dónde puedo corregir los datos del alumno?
 permalink: /docs/corregirDatosAlumnoSAE/
 autor: Rommel Ortiz González
 categoria: SAE/Expediente
