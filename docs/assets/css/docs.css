@@ -8,10 +8,11 @@ border-bottom: solid 1px #555555;}
 .tt-suggestion.tt-selectable a{background:#999999;}
 .tt-suggestion:hover, .tt-selectable:hover, .tt-suggestion a:hover, .tt-selectable a:hover{cursor:pointer !important;}
 .typeSuggest{font-weight:lighter;}
-.typeSuggest span{background:#cccccc;
+.typeSuggest span{background:#cfcfcf;
 border-radius:1rem;
-color:#666666;
-padding:.5rem}
+color:#8a8a8a;
+padding:.5rem;
+font-weight:bold;}
 
 .jumbotron span.twitter-typeahead{width:100%;
 font-size:2rem;}
