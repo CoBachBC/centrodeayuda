@@ -11,6 +11,7 @@ $(function () {
 
     $('#search-box').typeahead({
       minLength: 0,
+      hint: true,
       highlight: true
     }, {
         name: 'pages',
