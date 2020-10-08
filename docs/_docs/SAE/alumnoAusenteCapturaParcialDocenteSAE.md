@@ -3,7 +3,7 @@
 title: sae parciales alumno no sale aparece captura calificación calificacion parcial docente
 
 # ESTE ES EL TÍTULO QUE SE MOSTRARÁ COMO NOMBRE DE LA ENTRADA
-displayTitle: Alumno no sale en captura calificación parcial docente
+displayTitle: Un alumno no sale en la captura de calificación parcial docente
 
 # DIRECCIÓN PERMANENTE DE LA ENTRADA, SIEMPRE SERÁ /docs/nombreDelArchivo/
 permalink: /docs/alumnoAusenteCapturaParcialDocenteSAE/
