@@ -1,6 +1,6 @@
 ---
 # USA LA PROPIEDAD TITLE PARA LAS ETIQUETAS QUE DESCRIBEN LA ENTRADA, ÉSTAS SERÁ USADO EN LA BÚSQUEDA
-title: sae expediente dónde donde puedo corregir datos alumno alumna alumnos alumnas
+title: sae expediente dónde donde puedo corrijo corregir datos alumno alumna alumnos alumnas
 
 # ESTE ES EL TÍTULO QUE SE MOSTRARÁ COMO NOMBRE DE LA ENTRADA
 displayTitle: ¿Dónde puedo corregir los datos del alumno?

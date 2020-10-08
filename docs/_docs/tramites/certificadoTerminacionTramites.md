@@ -1,6 +1,6 @@
 ---
 # USA LA PROPIEDAD TITLE PARA LAS ETIQUETAS QUE DESCRIBEN LA ENTRADA, ÉSTAS SERÁ USADO EN LA BÚSQUEDA
-title: Trámites tramites como obtengo carta validacion validación certificado terminación terminacion
+title: Trámites tramites cómo como obtengo carta validacion validación certificado terminación terminacion
 
 # ESTE ES EL TÍTULO QUE SE MOSTRARÁ COMO NOMBRE DE LA ENTRADA
 displayTitle: ¿Cómo obtengo una carta de validación de Certificado de Terminación?

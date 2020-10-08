@@ -1,6 +1,6 @@
 ---
 # USA LA PROPIEDAD TITLE PARA LAS ETIQUETAS QUE DESCRIBEN LA ENTRADA, ÉSTAS SERÁ USADO EN LA BÚSQUEDA
-title: sae usuarios cómo como genero usuario plantel
+title: sae usuarios cómo como  creo hago registro genero usuario plantel
 
 # ESTE ES EL TÍTULO QUE SE MOSTRARÁ COMO NOMBRE DE LA ENTRADA
 displayTitle: ¿Cómo genero un usuario de Plantel?

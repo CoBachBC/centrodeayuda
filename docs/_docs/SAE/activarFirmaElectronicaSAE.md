@@ -1,6 +1,6 @@
 ---
 # USA LA PROPIEDAD TITLE PARA LAS ETIQUETAS QUE DESCRIBEN LA ENTRADA, ÉSTAS SERÁ USADO EN LA BÚSQUEDA
-title: sae director plantel cómo como activo activar firma electrónica electronica documento documentos digital digitales
+title: sae director plantel cómo como activo activar firma electrónica electronica documentos digitales certificacion certificación
 
 # ESTE ES EL TÍTULO QUE SE MOSTRARÁ COMO NOMBRE DE LA ENTRADA
 displayTitle: Soy Director de Plantel ¿Cómo activo mi firma electrónica para documentos digitales?

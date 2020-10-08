@@ -1,6 +1,6 @@
 ---
 # USA LA PROPIEDAD TITLE PARA LAS ETIQUETAS QUE DESCRIBEN LA ENTRADA, ÉSTAS SERÁ USADO EN LA BÚSQUEDA
-title: sae parciales alumno no sale aparece captura calificación calificacin parcial docente
+title: sae parciales alumno no sale aparece captura calificación calificacion parcial docente
 
 # ESTE ES EL TÍTULO QUE SE MOSTRARÁ COMO NOMBRE DE LA ENTRADA
 displayTitle: Alumno no sale en captura calificación parcial docente

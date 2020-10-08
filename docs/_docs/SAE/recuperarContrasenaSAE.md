@@ -1,6 +1,6 @@
 ---
 # USA LA PROPIEDAD TITLE PARA LAS ETIQUETAS QUE DESCRIBEN LA ENTRADA, ÉSTAS SERÁ USADO EN LA BÚSQUEDA
-title: sae usuario no recuerdo contraseña contrasena cómo como recupero
+title: sae usuarios no recuerdo contraseña contrasena cómo como recupero recuperar
 
 # ESTE ES EL TÍTULO QUE SE MOSTRARÁ COMO NOMBRE DE LA ENTRADA
 displayTitle: Si no recuerdo mi contraseña, ¿Cómo la recupero?
