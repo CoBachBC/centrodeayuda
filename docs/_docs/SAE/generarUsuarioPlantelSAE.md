@@ -1,8 +1,17 @@
 ---
+# USA LA PROPIEDAD TITLE PARA LAS ETIQUETAS QUE DESCRIBEN LA ENTRADA, ÉSTAS SERÁ USADO EN LA BÚSQUEDA
 title: sae usuarios cómo como genero usuario plantel
+
+# ESTE ES EL TÍTULO QUE SE MOSTRARÁ COMO NOMBRE DE LA ENTRADA
 displayTitle: ¿Cómo genero un usuario de Plantel?
+
+# DIRECCIÓN PERMANENTE DE LA ENTRADA, SIEMPRE SERÁ /docs/nombreDelArchivo/
 permalink: /docs/generarUsuarioPlantelSAE/
+
+# AUTOR DEL CONTENIDO DE LA ENTRADA A SUBIR
 autor: Rommel Ortiz González
+
+# SISTEMA O TEMA AL QUE PERTENECE / SEGUIDO POR LA SECCIÓN DENTRO DE ESE SISTEMA O TEMA
 categoria: SAE/Usuario
 ---
 

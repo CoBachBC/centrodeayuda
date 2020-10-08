@@ -1,8 +1,17 @@
 ---
+# USA LA PROPIEDAD TITLE PARA LAS ETIQUETAS QUE DESCRIBEN LA ENTRADA, ÉSTAS SERÁ USADO EN LA BÚSQUEDA
 title: sae donde dónde encuentro procedimientos departamento registro control escolar
+
+# ESTE ES EL TÍTULO QUE SE MOSTRARÁ COMO NOMBRE DE LA ENTRADA
 displayTitle: ¿Dónde encuentro los procedimientos del Departamento de Registro y Control Escolar?
+
+# DIRECCIÓN PERMANENTE DE LA ENTRADA, SIEMPRE SERÁ /docs/nombreDelArchivo/
 permalink: /docs/procedimientosSAE/
+
+# AUTOR DEL CONTENIDO DE LA ENTRADA A SUBIR
 autor: Rommel Ortiz González
+
+# SISTEMA O TEMA AL QUE PERTENECE / SEGUIDO POR LA SECCIÓN DENTRO DE ESE SISTEMA O TEMA
 categoria: SAE/Procedimientos
 ---
 

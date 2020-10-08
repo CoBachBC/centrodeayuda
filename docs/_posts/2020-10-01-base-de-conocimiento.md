@@ -1,8 +1,17 @@
 ---
 layout: post
+
+# USA LA PROPIEDAD TITLE PARA LAS ETIQUETAS QUE DESCRIBEN LA ENTRADA, ÉSTAS SERÁ USADO EN LA BÚSQUEDA
 title:  "Base de conocimiento CoBach BC"
+
+# ESTE ES EL TÍTULO QUE SE MOSTRARÁ COMO NOMBRE DE LA ENTRADA
 displayTitle: "Base de conocimiento CoBach BC"
+
+# AUTOR DEL CONTENIDO DE LA ENTRADA A SUBIR
 author: admin
+
+# SISTEMA O TEMA AL QUE PERTENECE / SEGUIDO POR LA SECCIÓN DENTRO DE ESE SISTEMA O TEMA
+categoria: Blog
 ---
 ### Gracias por utilizar la **Base de conocimiento** de CoBach BC. 
 
