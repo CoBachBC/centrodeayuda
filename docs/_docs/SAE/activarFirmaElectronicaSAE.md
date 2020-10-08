@@ -1,8 +1,17 @@
 ---
+# USA LA PROPIEDAD TITLE PARA LAS ETIQUETAS QUE DESCRIBEN LA ENTRADA, ÉSTAS SERÁ USADO EN LA BÚSQUEDA
 title: sae director plantel cómo como activo activar firma electrónica electronica documento documentos digital digitales
+
+# ESTE ES EL TÍTULO QUE SE MOSTRARÁ COMO NOMBRE DE LA ENTRADA
 displayTitle: Soy Director de Plantel ¿Cómo activo mi firma electrónica para documentos digitales?
+
+# DIRECCIÓN PERMANENTE DE LA ENTRADA, SIEMPRE SERÁ /docs/nombreDelArchivo/
 permalink: /docs/activarFirmaElectronicaSAE/
+
+# AUTOR DEL CONTENIDO DE LA ENTRADA A SUBIR
 autor: Rommel Ortiz González
+
+# SISTEMA O TEMA AL QUE PERTENECE / SEGUIDO POR LA SECCIÓN DENTRO DE ESE SISTEMA O TEMA
 categoria: SAE/Certificación
 ---
 
