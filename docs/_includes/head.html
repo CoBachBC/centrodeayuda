@@ -8,7 +8,8 @@
     <link rel="stylesheet" href="{{ "/assets/css/docs.css" | relative_url }}">
 
     <link rel="shortcut icon" href="{{ "/favicon.ico?1" | relative_url }}">
-    {% seo %}
+    <title>{{ site.title }} | {{ page.displayTitle }}</title>
+    {% seo title=false %}
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | absolute_url }}" />
 
