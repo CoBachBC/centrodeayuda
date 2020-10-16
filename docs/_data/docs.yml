@@ -12,6 +12,7 @@
   - validarCertificadoTerminacionSAE
   - generarUsuarioPlantelSAE
   - procedimientosSAE
+  - capturaEstadistica911
   
 - title: Trámites
   docs:
