@@ -1,6 +1,6 @@
 ---
 # USA LA PROPIEDAD TITLE PARA LAS ETIQUETAS QUE DESCRIBEN LA ENTRADA, ÉSTAS SERÁ USADO EN LA BÚSQUEDA
-title: como cómo revisar usuarios tiene estan están mi plantel
+title: como cómo busco buscar reviso revisar usuarios tiene estan están mi plantel
 
 # ESTE ES EL TÍTULO QUE SE MOSTRARÁ COMO NOMBRE DE LA ENTRADA
 displayTitle: ¿Cómo revisar qué usuarios tiene mi Plantel?
