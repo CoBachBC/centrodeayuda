@@ -15,6 +15,7 @@
   - capturaEstadistica911
   - revisarUsuariosPlantelSAE
   - detectarFaltaCierreCalificacionesSAE
+  - rectificarCalificacionParcialSAE
   
 - title: Trámites
   docs:
