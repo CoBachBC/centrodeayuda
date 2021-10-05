@@ -14,4 +14,4 @@ autor: Carlos Manuel Chee Vázquez
 # SISTEMA O TEMA AL QUE PERTENECE / SEGUIDO POR LA SECCIÓN DENTRO DE ESE SISTEMA O TEMA
 categoria: Google/Gmail
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4r_SLPJDCr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embedtool {position: relative;height: 0;padding-top: 56%;overflow: hidden;max-width: 100%;} .embedtool iframe, .embedtool object, .embedtool embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } .embedtool .fluid-vids {position: initial !important}</style><div class="embedtool"><iframe src="https://www.youtube.com/embed/4r_SLPJDCr8" frameborder="0" allowfullscreen></iframe></div>
