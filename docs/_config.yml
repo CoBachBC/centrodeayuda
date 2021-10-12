@@ -7,7 +7,7 @@ lang: es-MX
 
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
+url: http://kb.cobachbc.edu.mx/ # the base hostname & protocol for your site
 git_address: https://github.com/cobachbc/centrodeayuda
 
 # theme options from https://bootswatch.com/3/
