@@ -24,6 +24,7 @@ categoria: SAE/Usuario
     - Coordinador de tutorías
     - Médico
     - Coordinador de academias
+    - Orientador
 - La opción sería Plantel / Profesores - Usuarios
     - Buscar para ver si ya existe y si no dar click en:
     <img src="/assets/img/docs/sae/generarUsuarioPlantelSAE-01.jpg">
