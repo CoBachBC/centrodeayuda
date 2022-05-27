@@ -47,7 +47,7 @@ Al exportar tus correos con **Google Takeout** tendrás un archivo *.mbox* que n
 
 ![](/assets/img/docs/google/workspace-takeout-mbox-07.png){: .img-tutorial-h}
 
-- Selecciona la carpeta que contiene **tu archivo .mbox** y haz clic en **Seleccionar carpeta**. 
+- Selecciona **la carpeta que contiene DIRECTAMENTE tu archivo .mbox** (en este ejemplo, el archivo *mbox* está directamente en la carpeta titulada *Takeout*. Tu archivo *mbox* puedes moverlo a la carpeta de tu elección) y haz clic en **Seleccionar carpeta**. 
 
 ![](/assets/img/docs/google/workspace-takeout-mbox-08.png){: .img-tutorial-h}
 
