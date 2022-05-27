@@ -24,3 +24,7 @@
 - title: OPTISTOR
   docs:
   - reemplazarArchivoHostsOPTISTOR
+
+- title: Google Workspace
+  docs:
+  - consultarMbox
