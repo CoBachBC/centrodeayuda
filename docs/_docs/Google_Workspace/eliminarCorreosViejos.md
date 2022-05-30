@@ -39,6 +39,6 @@ Para borrar rápidamente todos los correos que sean más viejos a una fecha esta
 
 ![](/assets/img/docs/google/workspace-gmail-correosViejos-05.png){: .img-tutorial-h}
 
-- Y haz clic en **Vaciar papelera**
+- Y haz clic en **Vaciar papelera**. Esto puede tardar un momento, dependiendo de la cantidad de correos que tengas.
 
 ![](/assets/img/docs/google/workspace-gmail-correosViejos-06.png){: .img-tutorial-h}
