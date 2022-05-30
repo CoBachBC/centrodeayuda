@@ -17,7 +17,7 @@ categoria: Google/Gmail
 
 Para borrar rápidamente todos los correos que sean más viejos a una fecha establecida sigue estos pasos:
 
-- En la pantalla de Gmail, ubica la casilla de búsqueda, y escribirás el siguiente texto para especificar la fecha: ```before:AAAA/MM/DD```. Donde ```AAAA```` es el año, ```MM``` el mes, y ```DD``` el día. Por ejemplo, para borrar todos los anteriores a 2018, escribirías:
+- En la pantalla de Gmail, ubica la casilla de búsqueda, y escribirás el siguiente texto para especificar la fecha: ```before:AAAA/MM/DD```. Donde ```AAAA``` es el año, ```MM``` el mes, y ```DD``` el día. Por ejemplo, para borrar todos los anteriores a 2018, escribirías:
 
 ![](/assets/img/docs/google/workspace-gmail-correosViejos-01.png){: .img-tutorial-h}
 
