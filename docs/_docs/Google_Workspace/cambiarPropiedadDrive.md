@@ -15,7 +15,7 @@ autor: Carlos Manuel Chee Vázquez
 categoria: Google/Drive
 ---
 
-Cambiar la propiedad de uno o más elementos en Drive significa reubicar dichos elementos para que su propiedad y espacio que almacenan sean ubicados en otra cuenta. Sigue los siguientes pasos para migrar contenido entre cuentas:
+Cambiar la propiedad de uno o más elementos en Drive significa reubicar dichos elementos para que su propiedad y espacio que almacenan sean ubicados en otra cuenta. Sigue estos pasos para migrar contenido entre cuentas:
 
 - Ubica el elemento o elementos que deseas cambiar de propiedad. Pueden ser carpetas o documentos. Puedes hacer una selección individual o múltiple.
 
