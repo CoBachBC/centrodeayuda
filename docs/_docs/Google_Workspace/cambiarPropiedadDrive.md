@@ -45,4 +45,4 @@ Cambiar la propiedad de uno o más elementos en Drive significa reubicar dichos 
 
 ![](/assets/img/docs/google/workspace-drive-propietario-06.png){: .img-tutorial-h}
 
-- Haz clic en **Hecho** para terminar
+- Haz clic en **Hecho** para terminar, y continua repitiendo el proceso con todos los elementos que desees transferir.
