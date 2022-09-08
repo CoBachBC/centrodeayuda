@@ -17,5 +17,4 @@ categoria: SAE/Estadística
 
 El Sistema de Administración Escolar cuenta con varios reportes con datos estadísticos que les pueden servir para obtener los datos para la captura de la **Estadística de Educación Media Superior 911**, se generó una hoja de cálculo donde podrán ver las referencias y los menús. Lo podrá revisar dando click en la siguiente imagen:
 
-[![](/assets/img/docs/sae/capturaEstadistica911-01.png)](https://docs.google.com/spreadsheets/d/1fHV2sZQH5zEqu00c_UVmwebzVohXsnDwAnMNKzDAKqU/edit?usp=sharing
-)
+[![](/assets/img/docs/sae/capturaEstadistica911-01.png)](https://docs.google.com/spreadsheets/d/1QgCgbrOv94QemCOUI16o-x0JO0cM0if-hbHpjnkBzxU/edit?usp=sharing)
