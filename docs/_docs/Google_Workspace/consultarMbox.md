@@ -15,9 +15,9 @@ autor: Carlos Manuel Chee Vázquez
 categoria: Google/Takeout
 ---
 
-Al exportar tus correos con **Google Takeout** tendrás un archivo *.mbox* que no podrás consultar directamente. Las siguientes instrucciones te mostrarán cómo cargar dicho archivo en el cliente gratuito open-source [**Thunderbird** de Mozilla](https://www.thunderbird.net/es-ES/).
+Al exportar tus correos con **Google Takeout** tendrás un archivo *.mbox* que no podrás consultar directamente. Las siguientes instrucciones te mostrarán cómo cargar dicho archivo en el cliente gratuito open-source **Thunderbird**.
 
-- Abre Thunderbird. Si no lo tienes instalado [descárgalo e instálalo para continuar](https://www.thunderbird.net/es-ES/).
+- Abre **Thunderbird versión 91.13.1**. Si no lo tienes instalado [descárgalo e instálalo para continuar](/apps/Thunderbird-Setup-91.13.1.exe).
 
 - Si es la primera vez que usas Thunderbird, verás una pantalla similar a esta. Elige **Cancelar**.
 
