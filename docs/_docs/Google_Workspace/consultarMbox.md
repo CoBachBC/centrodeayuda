@@ -17,41 +17,41 @@ categoria: Google/Takeout
 
 Al exportar tus correos con **Google Takeout** tendrás un archivo *.mbox* que no podrás consultar directamente. Las siguientes instrucciones te mostrarán cómo cargar dicho archivo en el cliente gratuito open-source **Thunderbird**.
 
-- Abre **Thunderbird versión 91.13.1**. Si no lo tienes instalado [descárgalo e instálalo para continuar](/assets/apps/Thunderbird-Setup-91.13.1.exe). Si tienes una versión más reciente **debes usar la versión 91.13.1**.
+- Abre **Thunderbird**. Si no lo tienes instalado [descárgalo e instálalo para continuar](https://www.thunderbird.net/es-ES/).
 
 - Si es la primera vez que usas Thunderbird, verás una pantalla similar a esta. Elige **Cancelar**.
 
 ![](/assets/img/docs/google/workspace-takeout-mbox-01.png){: .img-tutorial-h}
 
-- Verifica que estés en la pestaña de inicio haciendo clic en la esquina superior izquierda.
+- Abre el menú cerca de la esquina superior derecha, y elige **Nueva cuenta**.
 
 ![](/assets/img/docs/google/workspace-takeout-mbox-02.png){: .img-tutorial-h}
 
-- Haz clic en el botón **Canales**
+- Haz clic en la opción **Feed**.
 
 ![](/assets/img/docs/google/workspace-takeout-mbox-03.png){: .img-tutorial-h}
 
-- Ingresa un nombre para identificarlo
+- Ingresa un nombre para identificarlo, este nombre debe identificar el contenido que importarás.
 
 ![](/assets/img/docs/google/workspace-takeout-mbox-04.png){: .img-tutorial-h}
 
-- Haz clic en **Finalizar**
+- Haz clic en **Finalizar**.
 
 ![](/assets/img/docs/google/workspace-takeout-mbox-05.png){: .img-tutorial-h}
 
-- Haz clic en el botón de menú en la esquina superior derecha, y luego haz clic en **Configuración de cuenta**.
+- Vuelve a abrir el menú cercano a la esquina superior derecha, y luego selecciona **Configuración de cuenta**.
 
 ![](/assets/img/docs/google/workspace-takeout-mbox-06.png){: .img-tutorial-h}
 
-- Selecciona **Carpetas locales** y haz clic en el botón **Examinar**. 
+- Desplázate hacia abajo, encuentra la sección **Almacenamiento de mensajes** y haz clic en el botón **Navegar**.
 
 ![](/assets/img/docs/google/workspace-takeout-mbox-07.png){: .img-tutorial-h}
 
-- Selecciona **la carpeta que contiene DIRECTAMENTE tu archivo .mbox** (en este ejemplo, el archivo *mbox* está directamente en la carpeta titulada *Takeout*. Tu archivo *mbox* puedes moverlo a la carpeta de tu elección) y haz clic en **Seleccionar carpeta**. 
+- Aquí debes selecciona la **la carpeta donde está guardado el archivo .mbox** (en este ejemplo, el archivo está dentro de una carpeta llamada *mbox*. Tu archivo *.mbox* debes moverlo dentro de una carpeta de tu elección). Ya que ubiques la carpeta donde pusiste tu archivo .mbox haz clic en **Seleccionar carpeta**. 
 
 ![](/assets/img/docs/google/workspace-takeout-mbox-08.png){: .img-tutorial-h}
 
-- Thunderbird te notificará que necesita reiniciar, haz clic en Reiniciar
+- Thunderbird te notificará que necesita reiniciar, haz clic en Reiniciar.
 
 ![](/assets/img/docs/google/workspace-takeout-mbox-09.png){: .img-tutorial-h}
 
@@ -59,14 +59,14 @@ Al exportar tus correos con **Google Takeout** tendrás un archivo *.mbox* que n
 
 ![](/assets/img/docs/google/workspace-takeout-mbox-10.png){: .img-tutorial-h}
 
-- En la parte izquierda, encontrarás una sección de **Carpetas locales**, y en ella encontrarás el nombre de tu archivo .mbox (que contiene el respaldo de tus correos). Haz clic en él (puede tardar un momento en cargarlo, dependiendo de la cantidad de información).
+- En la parte izquierda, encontrarás una sección **con el título del nombre que le pusiste a la cuenta**, y en ella encontrarás el nombre de tu archivo .mbox (que contiene el respaldo de tus correos). Haz clic en él (puede tardar un momento en cargarlo, dependiendo de la cantidad de información).
 
 ![](/assets/img/docs/google/workspace-takeout-mbox-11.png){: .img-tutorial-h}
 
-- En la sección principal verás la lista de correos, al seleccionar uno verás su contenido en el panel inferior.
+- En la sección principal verás la lista de correos, al seleccionar uno verás su contenido en el panel lateral.
 
 ![](/assets/img/docs/google/workspace-takeout-mbox-12.png){: .img-tutorial-h}
 
-- Para filtrar tus correos, ingresa el término que buscas en la casilla de filtro en la parte derecha de la barra de acciones en el panel principal.
+- Para buscar conteniedo en tus correos, debes hacer clic en el botón **Filtro rápido**, e ingresar el término que buscas en la casilla justo debajo del botón.
 
 ![](/assets/img/docs/google/workspace-takeout-mbox-13.png){: .img-tutorial-h}
